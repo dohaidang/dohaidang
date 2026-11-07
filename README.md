@@ -32,7 +32,7 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=dohaidang&style=for-the-badge&color=ffffff&labelColor=050505&label=TELEMETRY+READS" />
+  <img src="https://komarev.com/ghpvc/?username=dohaidang&style=for-the-badge&color=3a3a3a&labelColor=050505&label=TELEMETRY+READS" />
 
 </div>
 
