@@ -142,6 +142,8 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
     <td width="82%" valign="middle">
       <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -150,6 +152,8 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
       <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Orca-000000?style=flat-square" />
       <br/>
       <img src="./assets/spacer.svg" width="950" height="1" alt="" />
     </td>
