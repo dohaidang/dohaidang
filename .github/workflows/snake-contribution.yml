@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake-contribution.yml"
 
 permissions:
   contents: write
@@ -14,10 +18,10 @@ jobs:
     name: generate-snake
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: dohaidang
           outputs: |

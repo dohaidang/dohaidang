@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
-  <img src="./assets/matrix-banner.svg" width="100%" alt="DO HAI DANG // MATRIX CORE" />
+  <img src="./assets/matrix-banner.svg" width="100%" alt="Do Hai Dang — Developer — Java, Python, JavaScript — Vietnam" />
 
   <br/>
 
@@ -15,8 +15,8 @@
 
   <!-- 3. MATRIX COMMAND PROMPT TYPING -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=36&lines=Welcome+to+my+profile+%E2%80%94+ACTIVE;Build+sequence+resumed;Learning+system+design+and+scalability;%5BERROR%5D+Human+limitations+not+found;Compiling+the+future...+ETA%3A+unknown"
-    alt="System log"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=760&height=36&lines=Hello%2C+world!+I%27m+Do+Hai+Dang;Building+software%2C+one+commit+at+a+time;Learning+something+new+every+day;Open+to+collaboration+%E2%80%94+let%27s+talk"
+    alt="Hello, world! I'm Do Hai Dang"
   />
 
   <br/><br/>
@@ -54,64 +54,10 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## FOCUS AREAS
+## CURRENT FOCUS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>WEB DEVELOPMENT</strong> &nbsp; <code>[PID: 0x01 // BUILD]</code></p>
-      <p><sub>Fast, accessible, user-friendly interfaces</sub></p>
-      <p>
-        Building interactive web applications with a focus on clean structure
-        and a smooth user experience.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BACKEND &amp; APIs</strong> &nbsp; <code>[PID: 0x02 // SERVE]</code></p>
-      <p><sub>Reliable, maintainable services</sub></p>
-      <p>
-        Designing and implementing server-side applications and APIs that are
-        robust, readable and easy to scale.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>OPEN SOURCE</strong> &nbsp; <code>[PID: 0x03 // CONTRIBUTE]</code></p>
-      <p><sub>Contributing to open-source projects</sub></p>
-      <p>
-        Giving back to the community by contributing fixes, features and ideas to
-        projects I use and love.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>CONTINUOUS LEARNING</strong> &nbsp; <code>[PID: 0x04 // LEARN]</code></p>
-      <p><sub>System design, scalability and new technologies</sub></p>
-      <p>
-        Studying how large systems are designed, from data modeling to scaling
-        under real-world load.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+> I'm focused on turning ideas into reliable, well-crafted software &mdash; from clean interfaces to backend services that scale.
+> Right now I'm sharpening my system design skills and learning something new every day.
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
@@ -125,6 +71,7 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
       <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
     </td>
@@ -133,6 +80,7 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
     <td width="18%" valign="middle"><strong>BACKEND</strong></td>
     <td width="82%" valign="middle">
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
     </td>
@@ -144,6 +92,15 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
       <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>DEVOPS</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -153,9 +110,7 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
       <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/Orca-000000?style=flat-square" />
-      <br/>
-      <img src="./assets/spacer.svg" width="950" height="1" alt="" />
+      <img src="./assets/badge-orca.svg" height="20" alt="Orca" />
     </td>
   </tr>
 </table>
@@ -166,7 +121,20 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
+## CONTRIBUTIONS
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <img src="./dist/github-snake.svg" width="100%" alt="Contribution snake" />
+  </picture>
+</div>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
 ## CONNECT
+
+> Open to collaborations &mdash; feel free to reach out via email or LinkedIn. Let's build something together.
 
 <table width="100%">
   <tr>
