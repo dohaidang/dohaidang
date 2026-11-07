@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
-  <img src="./assets/matrix-banner.svg" width="640" alt="Do Hai Dang — Developer — Java, Python, JavaScript" />
+  <img src="./assets/matrix-banner.svg" width="640" alt="Do Hai Dang" />
 
   <p align="center">
     <strong>Developer</strong> &bull; Based in <strong>Vietnam</strong>
