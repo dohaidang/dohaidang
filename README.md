@@ -28,11 +28,11 @@
 
 > *"Code is poetry written for computers and humans to read."*
 
-Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **Vietnam**.
+Hi, I'm **Do Hai Dang** &mdash; a software developer based in **Vietnam**, working across web and backend development with **Java, Python and JavaScript**.
 
-* **Product Mindset:** I focus on building scalable, user-friendly applications that people actually enjoy using.
-* **Constant Learner:** I'm always learning and exploring new technologies, from new languages and frameworks to system design.
-* **Open Collaboration:** I'm open to collaborations and contributions &mdash; if you have an idea, let's build it together.
+* **Engineering Mindset:** I build reliable, maintainable and scalable software, with close attention to code quality and user experience.
+* **Continuous Learning:** I keep growing my skills across languages, frameworks and system design, and apply new ideas to real problems.
+* **Collaboration:** I value clear communication and teamwork, and I'm open to collaborations and contributions.
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
