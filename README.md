@@ -49,8 +49,6 @@ Hi, I'm **Do Hai Dang** &mdash; a software developer based in **Vietnam**, worki
   <tr>
     <td width="18%" valign="middle"><strong>FRONTEND</strong></td>
     <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
