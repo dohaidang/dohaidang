@@ -322,7 +322,7 @@
 
       <g class="frame-10">
         <!-- Corner Matrix Telemetry -->
-        <text x="30" y="45" font-size="10" font-weight="600" fill="#ffffff" opacity="0.4" letter-spacing="2">[ NODE: DOHAIDANG_CORE // HA NOI, VN ]</text>
+        <text x="30" y="45" font-size="10" font-weight="600" fill="#ffffff" opacity="0.4" letter-spacing="2">[ NODE: DOHAIDANG_CORE // VIETNAM ]</text>
         <text x="970" y="45" text-anchor="end" font-size="10" font-weight="600" fill="#ffffff" opacity="0.4" letter-spacing="2">[ THREAT_VECTOR: EXPONENTIAL ]</text>
 
         <!-- Main Title -->

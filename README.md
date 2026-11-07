@@ -7,7 +7,7 @@
 
   <!-- 2. BIO & IDENTITY DESCRIPTION -->
   <p align="center">
-    <strong>Developer</strong> &bull; Based in <strong>Ha Noi, Vietnam</strong><br/>
+    <strong>Developer</strong> &bull; Based in <strong>Vietnam</strong><br/>
     <sub>Building scalable, user-friendly software, from the web to the backend.</sub>
   </p>
 
@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CORE-JAVA_%C2%B7_PYTHON_%C2%B7_JS-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-HA_NOI,_VN-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/LOCATION-VIETNAM-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
   <br/><br/>
 
@@ -44,7 +44,7 @@
 
 > *"Code is poetry written for computers and humans to read."*
 
-Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **Ha Noi, Vietnam**.
+Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **Vietnam**.
 
 * **Product Mindset:** I focus on building scalable, user-friendly applications that people actually enjoy using.
 * **Constant Learner:** I'm always learning and exploring new technologies, from new languages and frameworks to system design.
@@ -195,7 +195,7 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
   <br/><br/>
   <sub>
     Engineered by <a href="https://github.com/dohaidang"><strong>Do Hai Dang</strong></a>
-    &mdash; Developer &mdash; Ha Noi, Vietnam
+    &mdash; Developer &mdash; Vietnam
   </sub>
 
 </div>
