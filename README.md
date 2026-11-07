@@ -1,61 +1,201 @@
-# 👋 Welcome to my GitHub profile!
+<div align="center">
 
-Hi, I'm **Đỗ Hải Đăng** (dohaidang), a passionate developer based in **Ha Noi, Vietnam**.
+  <!-- 1. HERO MATRIX RAIN & IDENTITY -->
+  <img src="./assets/matrix-banner.svg" width="100%" alt="DO HAI DANG // MATRIX CORE" />
 
----
+  <br/>
 
-## 🚀 About Me
+  <!-- 2. BIO & IDENTITY DESCRIPTION -->
+  <p align="center">
+    <strong>Developer</strong> &bull; Based in <strong>Ha Noi, Vietnam</strong><br/>
+    <sub>Building scalable, user-friendly software, from the web to the backend.</sub>
+  </p>
 
-- 🎯 Focused on building scalable, user-friendly applications
-- 📚 Constantly learning and exploring new technologies
-- 🤝 Open to collaborations and contributions
+  <br/>
 
----
+  <!-- 3. MATRIX COMMAND PROMPT TYPING -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=36&lines=Welcome+to+my+profile+%E2%80%94+ACTIVE;Build+sequence+resumed;Learning+system+design+and+scalability;%5BERROR%5D+Human+limitations+not+found;Compiling+the+future...+ETA%3A+unknown"
+    alt="System log"
+  />
 
-## 🛠️ Tech Stack
+  <br/><br/>
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  <!-- 4. MONOCHROME MATRIX BADGES -->
+  <img src="https://img.shields.io/badge/ENTITY-DOHAIDANG-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CORE-JAVA_%C2%B7_PYTHON_%C2%B7_JS-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-HA_NOI,_VN-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  <br/><br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <img src="https://komarev.com/ghpvc/?username=dohaidang&style=for-the-badge&color=ffffff&labelColor=050505&label=TELEMETRY+READS" />
 
+</div>
 
-## 💡 What I'm Currently Doing
+<br/>
 
-- 🔧 Building interactive web applications with React and Next.js
-- 📖 Exploring advanced TypeScript patterns
-- 🚀 Contributing to open-source projects
-- 🎓 Learning about system design and scalability
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
----
+## WHO AM I ?
 
-## 🌐 Connect With Me
+> *"Code is poetry written for computers and humans to read."*
 
-- 📧 **Email**: family0120203@gmail.com
-- 🌍 **Website**: [https://dohaidang.site/](https://dohaidang.site/)
-- 👨‍💼 **Facebook**: [dohaidang32241](https://www.facebook.com/dohaidang32241/)
+Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **Ha Noi, Vietnam**.
 
----
+* **Product Mindset:** I focus on building scalable, user-friendly applications that people actually enjoy using.
+* **Constant Learner:** I'm always learning and exploring new technologies, from new languages and frameworks to system design.
+* **Open Collaboration:** I'm open to collaborations and contributions &mdash; if you have an idea, let's build it together.
 
-## ⭐ Support
+<br/>
 
-If you find my projects interesting or useful, please consider giving them a ⭐ star! Your support means a lot! 🙏
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
----
+## FOCUS AREAS
 
-<p align="center">
-  <i>"Code is poetry written for computers and humans to read."</i>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>WEB DEVELOPMENT</strong> &nbsp; <code>[PID: 0x01 // BUILD]</code></p>
+      <p><sub>Fast, accessible, user-friendly interfaces</sub></p>
+      <p>
+        Building interactive web applications with a focus on clean structure
+        and a smooth user experience.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BACKEND &amp; APIs</strong> &nbsp; <code>[PID: 0x02 // SERVE]</code></p>
+      <p><sub>Reliable, maintainable services</sub></p>
+      <p>
+        Designing and implementing server-side applications and APIs that are
+        robust, readable and easy to scale.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>OPEN SOURCE</strong> &nbsp; <code>[PID: 0x03 // CONTRIBUTE]</code></p>
+      <p><sub>Contributing to open-source projects</sub></p>
+      <p>
+        Giving back to the community by contributing fixes, features and ideas to
+        projects I use and love.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>CONTINUOUS LEARNING</strong> &nbsp; <code>[PID: 0x04 // LEARN]</code></p>
+      <p><sub>System design, scalability and new technologies</sub></p>
+      <p>
+        Studying how large systems are designed, from data modeling to scaling
+        under real-world load.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+## LOADED MODULES
+
+<table width="100%">
+  <tr>
+    <td width="18%" valign="middle"><strong>FRONTEND</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>BACKEND</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>DATABASE</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>TOOLS</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <br/>
+      <img src="./assets/spacer.svg" width="950" height="1" alt="" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./assets/matrix-dev.svg" width="100%" alt="Pixel developer typing code" />
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+## CONNECT
+
+<table width="100%">
+  <tr>
+    <td width="18%" valign="middle"><strong>EMAIL</strong></td>
+    <td width="82%" valign="middle"><a href="mailto:dangdohai.work@gmail.com">dangdohai.work@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>WEBSITE</strong></td>
+    <td width="82%" valign="middle"><a href="https://dohaidang.site/">https://dohaidang.site/</a></td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>LINKEDIN</strong></td>
+    <td width="82%" valign="middle"><a href="https://www.linkedin.com/in/dohaidang202/">dohaidang202</a></td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>FACEBOOK</strong></td>
+    <td width="82%" valign="middle"><a href="https://www.facebook.com/dohaidang32241/">dohaidang32241</a></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+<div align="center">
+
+  <sub>
+    If you find my projects interesting or useful, please consider giving them a &#11088; star &mdash; your support means a lot!
+  </sub>
+  <br/><br/>
+  <sub>
+    Engineered by <a href="https://github.com/dohaidang"><strong>Do Hai Dang</strong></a>
+    &mdash; Developer &mdash; Ha Noi, Vietnam
+  </sub>
+
+</div>
