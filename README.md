@@ -4,8 +4,7 @@
   <img src="./assets/matrix-banner.svg" width="640" alt="Do Hai Dang — Developer — Java, Python, JavaScript" />
 
   <p align="center">
-    <strong>Developer</strong> &bull; Based in <strong>Vietnam</strong><br/>
-    <sub>Building scalable, user-friendly software, from the web to the backend.</sub>
+    <strong>Developer</strong> &bull; Based in <strong>Vietnam</strong>
   </p>
 
   <!-- 2. MATRIX COMMAND PROMPT TYPING -->
