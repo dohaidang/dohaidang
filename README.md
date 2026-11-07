@@ -1,42 +1,27 @@
 <div align="center">
 
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
-  <img src="./assets/matrix-banner.svg" width="100%" alt="Do Hai Dang — Developer — Java, Python, JavaScript — Vietnam" />
+  <img src="./assets/matrix-banner.svg" width="640" alt="Do Hai Dang — Developer — Java, Python, JavaScript" />
 
-  <br/>
-
-  <!-- 2. BIO & IDENTITY DESCRIPTION -->
   <p align="center">
     <strong>Developer</strong> &bull; Based in <strong>Vietnam</strong><br/>
     <sub>Building scalable, user-friendly software, from the web to the backend.</sub>
   </p>
 
-  <br/>
-
-  <!-- 3. MATRIX COMMAND PROMPT TYPING -->
+  <!-- 2. MATRIX COMMAND PROMPT TYPING -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=760&height=36&lines=Hello%2C+world!+I%27m+Do+Hai+Dang;Building+software%2C+one+commit+at+a+time;Learning+something+new+every+day;Open+to+collaboration+%E2%80%94+let%27s+talk"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=15&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=400&height=32&lines=Hello%2C+world!+I%27m+Do+Hai+Dang;Code%2C+commit%2C+ship%2C+repeat;Learning+something+new+every+day;Open+to+collaboration+%E2%80%94+let%27s+talk"
     alt="Hello, world! I'm Do Hai Dang"
   />
 
-  <br/><br/>
-
-  <!-- 4. MONOCHROME MATRIX BADGES -->
-  <img src="https://img.shields.io/badge/ENTITY-DOHAIDANG-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CORE-JAVA_%C2%B7_PYTHON_%C2%B7_JS-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-VIETNAM-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=dohaidang&style=for-the-badge&color=3a3a3a&labelColor=050505&label=TELEMETRY+READS" />
+  <!-- 3. COMPACT BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/CORE-JAVA_%C2%B7_PYTHON_%C2%B7_JS-ffffff?style=flat-square&labelColor=000000" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=dohaidang&style=flat-square&color=3a3a3a&labelColor=050505&label=TELEMETRY+READS" />
+  </p>
 
 </div>
-
-<br/>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
@@ -49,8 +34,6 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
 * **Product Mindset:** I focus on building scalable, user-friendly applications that people actually enjoy using.
 * **Constant Learner:** I'm always learning and exploring new technologies, from new languages and frameworks to system design.
 * **Open Collaboration:** I'm open to collaborations and contributions &mdash; if you have an idea, let's build it together.
-
-<br/>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
@@ -115,9 +98,9 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/matrix-dev.svg" width="100%" alt="Pixel developer typing code" />
+<p align="center">
+  <img src="./assets/matrix-dev.svg" width="560" alt="Pixel developer typing code" />
+</p>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
@@ -154,8 +137,6 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
     <td width="82%" valign="middle"><a href="https://www.facebook.com/dohaidang32241/">dohaidang32241</a></td>
   </tr>
 </table>
-
-<br/>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
