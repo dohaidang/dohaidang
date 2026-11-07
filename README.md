@@ -88,11 +88,11 @@ Hi, I'm **Do Hai Dang** (*dohaidang*) &mdash; a passionate developer based in **
   <tr>
     <td width="18%" valign="middle"><strong>DATABASE</strong></td>
     <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Hive-000000?style=flat-square&logo=apachehive&logoColor=white" />
+      <img src="https://img.shields.io/badge/Presto-000000?style=flat-square&logo=presto&logoColor=white" />
     </td>
   </tr>
   <tr>
