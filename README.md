@@ -45,58 +45,8 @@ Hi, I'm **Do Hai Dang** &mdash; a software developer based in **Vietnam**, worki
 
 ## LOADED MODULES
 
-<table width="100%">
-  <tr>
-    <td width="18%" valign="middle"><strong>FRONTEND</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="middle"><strong>BACKEND</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="middle"><strong>DATABASE</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Hive-000000?style=flat-square&logo=apachehive&logoColor=white" />
-      <img src="https://img.shields.io/badge/Presto-000000?style=flat-square&logo=presto&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="middle"><strong>DEVOPS</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="middle"><strong>TOOLS</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-      <img src="./assets/badge-orca.svg" height="20" alt="Orca" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="./assets/matrix-dev.svg" width="560" alt="Pixel developer typing code" />
+  <img src="./assets/matrix-dev.svg" width="560" alt="Tech stack — Frontend: React, Next.js, Tailwind CSS, HTML5, CSS3. Backend: Node.js, NestJS, Java, Python. Database: PostgreSQL, Oracle, Redis, Apache Hive, Presto. DevOps: Docker, Apache Kafka, GitHub Actions. Tools: Git, GitHub, VS Code, IntelliJ IDEA, Orca." />
 </p>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
